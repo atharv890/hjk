@@ -1,0 +1,6 @@
+canvas{
+    border: red dotted 5px;
+}
+body{
+    background-image:radial-gradient(lightblue,lightyellow,rgb(245, 159, 159))
+}
